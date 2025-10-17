@@ -1,2 +1,6 @@
-# basic-hello-world-d8989e07
-Auto-generated repo for task: basic-hello-world
+# basic-hello-world
+
+Round: 1
+
+Brief:
+Create a simple HTML page with a blue heading that says 'Hello, World!'
