@@ -1,6 +1,6 @@
 # basic-hello-world
 
-Round: 2
+Round: 1
 
 Brief:
-Update the 'Hello, World!' page. Change the heading color from blue to red and add a paragraph below it that says 'The page has been updated!'
+Create a simple HTML page with a blue heading that says 'Hello, World!'
